@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoviesScreenApp</string>
+    <string name="movie_description">Avengers: Endgame is a 2019 superhero film, based on the Marvel Comics superhero team of the same name. The film is a sequel to The Avengers, Avengers: Age of Ultron, Avengers: Infinity War, Ant-Man and the Wasp, and Captain Marvel. It is the twenty-second film in the Marvel Cinematic Universe, and the tenth installment of Phase Three. The film was released in the United States on April 26, 2019 and re-released under the title Avengers: Endgame - With Bonus Content[1] on June 28, 2019. </string>
+    <string name="date">March 18th,2023</string>
+    <string name="post_production">POST PRODUCTION</string>
+    <string name="science_fiction">SCIENCE FICTION</string>
+    <string name="thriller">THRILLER</string>
+    <string name="action">ACTION</string>
+    <string name="imdb">IMDb</string>
+    <string name="movie_name">Avengers Endgame</string>
+    <string name="star_rating_icon">RatingStar</string>
+    <string name="title_cast">CAST</string>
+    <string name="title_crew">CREW</string>
+    <string name="title_similar_movies">SIMILAR MOVIES</string>
+</resources>
